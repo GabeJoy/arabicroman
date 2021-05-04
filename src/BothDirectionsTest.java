@@ -1,3 +1,4 @@
+//foo commit
 import javax.swing.*;
 
 public class BothDirectionsTest {
